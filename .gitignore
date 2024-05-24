@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+
+# Coverage directory used by testing tools
+coverage/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Misc
+*.tgz
+*.lock-wscript
